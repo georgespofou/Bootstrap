@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    background-color: 0;
+}
+
+.container{
+    margin: 30px;
+ border: black 4px solid;  
+border-radius: 5%;
+background-color: rgb(214, 211, 206);
+}
+
+.row1{
+    border: black 3px solid;
+    border-radius: 15%;
+}
+
+.row2 { 
+    border-radius: 15%;
+    
+
+}
+
+.bg-info{
+    border-radius: 5%;
+    
+    
+}
+
+td{
+    border-radius: 20%;
+    
+}
+
+
+
+.table-primary{margin:200px;
+
+}
+.bg-light{
+    border-radius: 20%;
+}
